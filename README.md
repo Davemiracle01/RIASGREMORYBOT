@@ -46,9 +46,15 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
     <a href='https://railway.com/github/Toxic1239/RIASGREMORYBOT' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=render&logoColor=white'/></a>
 
  ### DEPLOY ON RENDER 
-1. Deploy. `Not working rn`
+1. AFTER YOU FORK AND STAR GET SESSION ID AND CLICK THE BELOW BUTTON
     <br>
-    <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Render' src='https://img.shields.io/badge/-Deploy-grey?style=for-the-badge&logo=railway&logoColor=white'/></a>
+    <a href='https://github.com/Toxic1239/RIASGREMORY' target="_blank"><img alt='Github' src='https://img.shields.io/badge/-Tap+here-grey?style=for-the-badge&logo=github&logoColor=white'/></a>
+
+    ### DEPLOY ON CODESPACE 
+1. Deploy. `Free`
+Add session Id to config.js and then deploy to codespace
+    <br>
+    <a href='https://github.com/codespaces' target="_blank"><img alt='Codespace' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=codespace&logoColor=white'/></a>
 
 ***
 
@@ -73,10 +79,21 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
 - [**On TELEGRAM**](https://t.me/Toxxicn_bot)
 
 ***
+### WARNING
+
+- **RIAS-GREMORY is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *In that case, I'm not responsible for banning your account.*
+- *Use RIAS-GREMORY at your own risk by keeping this warning in mind.*
+  
+  #### ```TOTAL PROFILE VIEWS 🧚```
+![Visitor Count](https://profile-counter.glitch.me/Toxic1239/count.svg)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+ ## [ WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U) 
 
 ### THANKS TO:
 
 - WASI FOR SESSION ID METHOD
 - ASTRO FOR THE BASE I USED
-- DAVID CRYIL FOR INSPIRATION
 - KING FOR SONG DOWNLOADER FIX 
