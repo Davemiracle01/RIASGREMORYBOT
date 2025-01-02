@@ -23,9 +23,9 @@
 ### 2. GET SESSION ID HERE 
 
 <a href='https://riasgremorybot-xcqv.onrender.com/' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
-### 3. GET CREDS.JSON HERE 
+### 3. GET THE FILE FOR PANEL HERE
 
-<a href='https://replit.com/@obidikechikadib/Toxic-Creds#main.sh' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Click here to get your Creds file-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
+<a href='https://github.com/Davemiracle01/astabugv2/archive/refs/heads/main.zip' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Click here to get your Creds file-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
 
 ### STEP 2
 ADD SESSION ID TO YOUR FORKED REPO IN CONFIG.JS
